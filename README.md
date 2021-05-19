@@ -18,4 +18,7 @@ Il ne faut pas déplacer l'éxecutable tout seul, utilisez des racourcis.
 * Pas de retour en cas d'erreur pendant l'exportation de ficiers
 * Et plein d'autres surprises!
 
+### Pour reporter un problème:
+Aller dans l'onglet ``issues``, puis ``New Issue``
+
 Des mises à jour seront apportées (plus ou moins) régulierement.
