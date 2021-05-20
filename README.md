@@ -10,6 +10,7 @@ Pour télécharger les fichiers, cliquez sur le bouton vert:
 <strong> Version acuelle : Beta2 </strong><br>
 Pour lancer l'application, l'éxecutable se trouve dans ``Builds\[nom de la version]\fractalGenerator.exe`` <br>
 Il ne faut pas déplacer l'éxecutable tout seul, utilisez des racourcis.
+<strong> Veillez à bien supprimer les anciennes versions! </strong>
 
 ### Problèmes connus :
 * Le sélecteur de couleurs est encore un peu instable
