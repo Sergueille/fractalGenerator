@@ -1,7 +1,7 @@
 # Générateur de fractale
 
 Bonjour!<br>
-Ceci est une logiciel fait avec Unity pour générer et exporter des ensembles de julia ou de mandelbrot. Tout n'est pas encore terminé, il rest encore pas mal de bugs!
+Ceci est un logiciel fait avec Unity pour générer et exporter des ensembles de julia ou de mandelbrot. Tout n'est pas encore terminé, il rest encore pas mal de bugs!
 L'application fonctionne sur Windows, MacOS, et Linux (normalement)
 
 Pour télécharger les fichiers, cliquez sur le bouton vert:
