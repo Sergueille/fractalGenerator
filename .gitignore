@@ -39,3 +39,6 @@ sysinfo.txt
 Icon?
 ehthumbs.db
 Thumbs.db
+
+### Fichiers lus par l'appli
+*.currentversion

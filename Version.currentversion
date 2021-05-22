@@ -1,0 +1,7 @@
+Ce fichier est lu par l'application pour verifier si il est a jour, chaque partie est séparée par un point virgule;
+3;
+v1.0;
+Amélorations:
+- Interface plus claire et ajout de tooltips
+- Ajout de fonctionnalités mineures
+- Corrections de bugs
