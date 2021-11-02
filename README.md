@@ -14,5 +14,3 @@ Il ne faut pas déplacer l'éxecutable tout seul, utilisez des racourcis.
 
 ### Pour reporter un problème:
 Aller dans l'onglet ``issues``, puis ``New Issue``
-
-La prochaine version comprendra d'autres fractales similaires ainsi que d'autres méthodes de rendu.
